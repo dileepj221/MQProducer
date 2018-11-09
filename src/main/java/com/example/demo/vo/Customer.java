@@ -15,6 +15,7 @@ public class Customer implements Serializable{
 	 * 
 	 */
 	private static final long serialVersionUID = 4098459962262863496L;
+	
 	private Long id;
 	private String firstname;
 	private String lastname;
